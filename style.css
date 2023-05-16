@@ -106,7 +106,7 @@ h1, h2, h3, h4, h5, h6{
     display: flex;
     flex-direction: column;
   
-    height: 850px;
+    height: 800px;
     
     background: #339900;
     
@@ -143,7 +143,7 @@ h1, h2, h3, h4, h5, h6{
   /* Content*/  
 
 .content{
-    height: 800px;
+    height: 900px;
     display: flex;
     flex-direction: column;
         
